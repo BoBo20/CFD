@@ -1,0 +1,19 @@
+From a methodological point of view, CFD can
+be divided into the following three categories:
+	
+	1.Microscopic: 	MD (Molecular Dynamics)
+	
+	2.Mesoscopic: 	LBM (Lattice Boltzmann Method)
+			DSMC (Direct Simulation Monte Carlo)
+			GKS (Gas Kinetic Scheme)
+			UGKS (Unified Gas Kinetic Scheme)
+			DUGKS (Discrete Unified Gas Kinetic Scheme)
+
+	3.Macroscopic:	N-S Equation Based Method
+
+In one hand, Molecular dynamics methods are currently limited to simulations 
+of simple flow conditions due to the tremendous computation. In another hand,
+N-S equation is no longer correct in rarefied flows. DUGKS is based on the 
+Boltzmann equation, which is appropriate for flow simulation from continuum
+flow to free-molecular flow (all kndsen number).It seems like this kind of
+methods will have a very promising future.
