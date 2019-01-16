@@ -1,0 +1,141 @@
+QtiPlot 0.9.8 project file
+<scripting-lang>	muParser
+<windows>	2
+<table>
+Table1	31	8	18-12-10 下午10:27
+geometry	0	0	905	841	
+header	1[X]	2[Y]	3[X]	4[Y]	5[X]	6[Y]	7[X]	8[Y]
+ColWidth	100	100	100	100	100	100	100	100	
+<com>
+</com>
+ColType	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13
+ReadOnlyColumn	0	0	0	0	0	0	0	0
+HiddenColumn	0	0	0	0	0	0	0	0
+Comments									
+WindowLabel		2
+<data>
+0	0.00276	0.00918	0.00392	-0.01518	0.016667	-0.025835	0.016667	0.040045
+1	0.01728	0.05442	0.01959	-0.0376	0.048889	-0.071457	0.048889	0.10829
+2	0.03641	0.11088	0.03871	-0.07897	0.081111	-0.11234	0.081111	0.15405
+3	0.06429	0.15573	0.06775	-0.12228	0.11333	-0.14437	0.11333	0.17731
+4	0.10347	0.19517	0.10347	-0.16752	0.14556	-0.17014	0.14556	0.18632
+5	0.14495	0.20831	0.14495	-0.19729	0.17778	-0.1896	0.17778	0.18605
+6	0.18874	0.1971	0.20095	-0.23325	0.21	-0.20316	0.21	0.18078
+7	0.24566	0.17661	0.25142	-0.24446	0.24222	-0.21039	0.24222	0.1725
+8	0.30626	0.15766	0.30949	-0.21624	0.27444	-0.21103	0.27444	0.16251
+9	0.37102	0.12402	0.3701	-0.16365	0.30667	-0.20497	0.30667	0.15134
+10	0.43048	0.0958	0.4337	-0.10333	0.33889	-0.19259	0.33889	0.13925
+11	0.50537	0.05442	0.49869	-0.05268	0.37111	-0.17477	0.37111	0.12628
+12	0.56367	0.01498	0.56252	-0.01131	0.40333	-0.15277	0.40333	0.11233
+13	0.63534	-0.03954	0.62751	0.02813	0.43556	-0.12807	0.43556	0.097202
+14	0.69342	-0.113	0.68789	0.05442	0.46778	-0.10213	0.46778	0.080631
+15	0.75287	-0.20696	0.74734	0.07878	0.5	-0.076207	0.5	0.062285
+16	0.80772	-0.316	0.80772	0.10701	0.53222	-0.051258	0.53222	0.041767
+17	0.85911	-0.38714	0.85588	0.14451	0.56444	-0.027865	0.56444	0.018588
+18	0.89506	-0.3535	0.89736	0.20483	0.59667	-0.00628	0.59667	-0.007873
+19	0.93078	-0.25954	0.93193	0.34171	0.62889	0.013507	0.62889	-0.038395
+20	0.96327	-0.14123	0.96212	0.55592	0.66111	0.0317	0.66111	-0.073863
+21	0.9824	-0.06196	0.98678	0.774	0.69333	0.048641	0.69333	-0.11506
+22	0.99807	-0.01131	0.99807	0.94335	0.72556	0.064685	0.72556	-0.16217
+23					0.75778	0.080346	0.75778	-0.21384
+24					0.79	0.09625	0.79	-0.26599
+25					0.82222	0.11474	0.82222	-0.31027
+26					0.85444	0.14195	0.85444	-0.33402
+27					0.88667	0.19404	0.88667	-0.32234
+28					0.91889	0.30276	0.91889	-0.26452
+29					0.95111	0.50482	0.95111	-0.16979
+30					0.98333	0.82709	0.98333	-0.05463
+</data>
+</table>
+<multiLayer>
+Graph1	1	1	18-12-10 下午10:35
+geometry	904	-1	796	712	active
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<CommonAxes>0</CommonAxes>
+<graph>
+ggeometry	2	5	777	641
+<PageGeometry>0.00253807	0.00753012	0.986041	0.965361</PageGeometry>
+PlotTitle	Velocity Profile	#000000	4228
+<Antialiasing>0</Antialiasing>
+<Autoscaling>1</Autoscaling>
+<ScaleFonts>1</ScaleFonts>
+<GridOnTop>0</GridOnTop>
+<MissingDataGap>1</MissingDataGap>
+Background	#ffffff	0
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
+EnabledAxes	1	0	1	0	
+AxesTitles	x/L, y/L	u/U, v/U		%(?Y)	
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	4	5124	4
+AxesTitleDistance	2	-1	2	-1
+InvertedTitle	0	0	0	0
+TitleFont	Ubuntu	21	75	0	0	0
+ScaleFont0	Ubuntu	17	75	0	0	0
+ScaleFont1	Ubuntu	17	75	0	0	0
+ScaleFont2	Ubuntu	17	75	0	0	0
+ScaleFont3	Ubuntu	17	75	0	0	0
+AxisFont0	Ubuntu	17	50	0	0	0
+AxisFont1	Ubuntu	17	50	0	0	0
+AxisFont2	Ubuntu	17	50	0	0	0
+AxisFont3	Ubuntu	17	50	0	0	0
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#3c3c3c	#3c3c3c	#3c3c3c	#3c3c3c
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	0
+curve	Table1_7	Table1_8	1	0	#000000	0	1	7	2	#000000	-1	0	#000000	14	1	2	0	0	30	1
+curve	Table1_5	Table1_6	1	0	#ff0000	0	1	7	2	#000000	-1	0	#000000	14	1	2	0	0	30	1
+curve	Table1_3	Table1_4	0	1	#0000ff	0	3	7	0	#00ff00	#00ff00	0	#000000	14	1	2	0	0	30	1
+curve	Table1_1	Table1_2	0	1	#0000ff	0	3	7	0	#0000ff	#0000ff	0	#000000	14	1	2	0	0	30	1
+scale	0	-0.4	1	0	8	5	0	0
+scale	1	-0.4	1	0	8	5	0	0
+scale	2	0	1	0	6	5	0	0
+scale	3	0	1	0	6	5	0	0
+LabelsFormat	0	6	0	6	0	6	0	6
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1
+MinorTicks	1	1	1	1
+TicksLength	5	9
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	0	0	0
+EnabledTickLabels	1	1	1	1
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>0.63304093567251</x>
+<y>0.99733840304182</y>
+<right>0.152857142857143</right>
+<bottom>0.911524163568773</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>1</visible>
+<Text>
+\l(1)present
+\l(3)Wu et al.
+</Text>
+<Font>Ubuntu	17	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>1</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+</graph>
+<LinkXAxes>0</LinkXAxes>
+<ScaleLayers>1</ScaleLayers>
+</multiLayer>
+<open>1</open>
